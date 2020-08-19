@@ -5,7 +5,7 @@ import MovieList from './components/MovieList.vue';
 import MovieFilter from './components/MovieFilter.vue';
 
 
-import VueResource from 'vue-resource';
+import VueResource from 'vue-resource'; 
 Vue.use(VueResource);  
 
 
